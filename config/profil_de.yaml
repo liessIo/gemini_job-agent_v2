@@ -1,0 +1,42 @@
+# config/profil_de.yaml
+
+identitaet:
+  name: "Ihr Name"
+  aktuelle_position: "Ihre aktuelle Position"
+
+harte_fakten:
+  technologien:
+    - name: "Python"
+      level: "Experte"
+      jahre: 10
+      beschreibung: "Tiefgreifende Erfahrung in Backend-Entwicklung, Automatisierung und KI-Anwendungen."
+    - name: "AWS"
+      level: "Fortgeschritten"
+      jahre: 6
+      beschreibung: "Design und Betrieb von skalierbaren, hochverfügbaren Systemen (EC2, S3, Lambda)."
+  branchen: ["SaaS", "FinTech", "E-Commerce"]
+
+impact:
+  - position: "Head of Engineering bei Firma X"
+    zeitraum: "2020-2024"
+    erfolge:
+      - "Skalierung des Engineering-Teams von 5 auf 25 Personen, was die Produktentwicklungs-Geschwindigkeit um 200% steigerte."
+      - "Reduzierung der monatlichen Cloud-Kosten um 30% durch die Einführung einer optimierten Microservice-Architektur."
+      - "Leitung der technischen Strategie, die zu einer Systemverfügbarkeit von 99.98% führte."
+
+arbeitsweise:
+  fuehrungsstil: "Servant Leadership mit starkem Fokus auf Coaching und die Autonomie der Entwickler."
+  umfeld: "Bevorzuge Scale-up-Umgebungen, in denen schnelle Iteration und strategischer Aufbau gleichermaßen wichtig sind."
+
+ziele:
+  rollen:
+    ideal: ["CTO", "VP of Engineering", "Head of Technology"]
+    ausschluss: ["Consultant", "Projektmanager", "Sales Engineer"]
+  gehalt_eur:
+    minimum: 140000
+    ziel: 165000
+  red_flags:
+    - "Hohe Reisebereitschaft (mehr als 20%)"
+    - "Keine strategische Mitsprache"
+    - "Stark hierarchische Unternehmenskultur"
+    - "Technologisch veralteter Stack (z.B. PHP, SVN)"
