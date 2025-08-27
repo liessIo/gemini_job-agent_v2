@@ -1,0 +1,42 @@
+# Dies ist eine Vorlage. Bitte kopieren Sie diese Datei nach 'profil_de.yaml'
+# und füllen Sie sie mit Ihren persönlichen Daten.
+
+identitaet:
+  name: "Ihr Name"
+  aktuelle_position: "Ihre aktuelle Position"
+  profil_kurz: "Eine kurze, prägnante Zusammenfassung Ihres professionellen Profils."
+
+harte_fakten:
+  technologien:
+    - name: "Beispiel-Technologie (z.B. Python)"
+      level: "Experte"
+      jahre: 10
+      beschreibung: "Beschreibung Ihrer Erfahrung mit dieser Technologie."
+  branchen: ["Branche 1", "Branche 2"]
+
+impact:
+  - position: "Ihre Position bei Firma X"
+    zeitraum: "2020-2024"
+    erfolge:
+      - "Ein messbarer Erfolg, den Sie hier erzielt haben."
+      - "Ein weiterer beeindruckender Erfolg."
+
+arbeitsweise:
+  fuehrungsstil: "Beschreibung Ihres Führungsstils."
+  umfeld: "Beschreibung Ihres idealen Arbeitsumfelds."
+  mission: "Ihre persönliche berufliche Mission oder Ihr Leitsatz."
+
+ziele:
+  # ... (Ihre Ziele können hier als Beispiel belassen werden)
+  rollen:
+    ideal: ["Chief Technology Officer", "VP of Engineering"]
+    ausschluss: ["Projektmanager", "Sales Engineer"]
+  gehalt_eur:
+    minimum: 100000
+    ziel: 120000
+  red_flags:
+    - "Beispiel für eine 'Red Flag' in einer Stellenanzeige"
+
+semantische_anker:
+  - "Ein prägnanter Satz, der eine Ihrer Kernkompetenzen zusammenfasst."
+  - "Ein weiterer Satz, der für die semantische Suche optimiert ist."

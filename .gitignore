@@ -7,3 +7,19 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# environment files
+.env
+
+# Personal Configuration (Profiles)
+# Ignoriere alle .yaml Dateien im config Ordner...
+config/*.yaml
+
+# ... ABER mache eine Ausnahme für Dateien, die auf '.template.yaml' enden.
+!config/*.template.yaml
+
+# Generated Data (Vector Stores)
+data/
+
+# Certificates
+certs/

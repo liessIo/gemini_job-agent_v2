@@ -1,0 +1,30 @@
+# This is a template. Please copy this file to 'config.yaml'
+# and fill it with your own search and scoring parameters.
+
+# Central language configuration
+supported_languages:
+  de:
+    enabled: true
+    profile_file: "profil_de.yaml"
+  en:
+    enabled: true
+    profile_file: "profil_en.yaml"
+
+# Indeed search parameters
+indeed_search_params:
+  q: "Your Target Job Title"
+  l: "Your Target Location"
+  sort: "date"
+
+# Bilingual scoring logic
+scoring_logic:
+  # German Keywords
+  ideal_roles_de:
+    - "Example Ideal Role DE"
+  exclusion_roles_de:
+    - "Example Exclusion Role DE"
+  # English Keywords
+  ideal_roles_en:
+    - "Example Ideal Role EN"
+  exclusion_roles_en:
+    - "Example Exclusion Role EN"

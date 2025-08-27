@@ -1,0 +1,42 @@
+# This is a template. Please copy this file to 'profil_en.yaml'
+# and fill it with your personal data.
+
+identity:
+  name: "Your Name"
+  current_position: "Your Current Position"
+  profile_summary: "A short, concise summary of your professional profile."
+
+hard_facts:
+  technologies:
+    - name: "Example Technology (e.g., Python)"
+      level: "Expert"
+      years: 10
+      description: "Description of your experience with this technology."
+  industries: ["Industry 1", "Industry 2"]
+
+impact:
+  - position: "Your Position at Company X"
+    period: "2020-2024"
+    achievements:
+      - "A measurable achievement you accomplished here."
+      - "Another impressive achievement."
+
+work_style:
+  leadership_style: "Description of your leadership style."
+  environment: "Description of your ideal work environment."
+  mission: "Your personal professional mission or guiding principle."
+
+goals:
+  # ... (Your goals can be left here as an example)
+  roles:
+    ideal: ["Chief Technology Officer", "VP of Engineering"]
+    exclusion: ["Project Manager", "Sales Engineer"]
+  salary_eur:
+    minimum: 100000
+    target: 120000
+  red_flags:
+    - "Example of a red flag in a job description"
+
+semantic_anchors:
+  - "A concise sentence summarizing one of your core competencies."
+  - "Another sentence optimized for semantic search."
